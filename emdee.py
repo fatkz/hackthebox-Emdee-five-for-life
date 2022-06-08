@@ -4,7 +4,7 @@ import re
 
 
 
-url="http://178.128.40.63:31824/"
+url=""
 
 r=requests.session()
 out=r.get(url)
